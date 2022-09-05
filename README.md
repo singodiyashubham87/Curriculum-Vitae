@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Repository for my poortfolio website.
+First webpage & Github repo.
