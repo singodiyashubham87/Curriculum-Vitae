@@ -1,3 +1,3 @@
 # Curriculum-Vitae
 
-First webpage & Github repo.
+First HTML webpage & Github repo.
